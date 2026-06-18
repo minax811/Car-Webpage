@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Page</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Work+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #060606;
+    --text-primary: #F2F0EA;
+    --text-muted: #9A9690;
+    --accent: #c9a227;
+    --frame: #232220;
+  }
+
+  body {
+    background-color: var(--bg);
+    color: var(--text-primary);
+    margin: 0;
+    padding: 70px 24px;
+  }
+
+  .page {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .eyebrow {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 12px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 14px;
+  }
+
+  .title {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 600;
+    font-size: clamp(30px, 5vw, 44px);
+    margin: 0 0 18px;
+  }
+
+  .divider {
+    width: 60px;
+    height: 2px;
+    background: var(--accent);
+    margin: 0 auto 36px;
+  }
+
+  /* Frame around the image - swap the src below for your own file */
+  .frame {
+    display: inline-block;
+    background: var(--frame);
+    padding: 14px;
+    margin: 0 0 30px;
+  }
+
+  .frame img {
+    display: block;
+    width: min(380px, 80vw);
+    height: min(380px, 80vw);
+    object-fit: cover;
+  }
+
+  .caption {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--text-muted);
+    max-width: 460px;
+    margin: 0 auto;
+  }
+</style>
+</head>
+<body>
+
+  <div class="page">
+    <p class="eyebrow">On display</p>
+    <h1 class="BMW iX">BMW iX</h1>
+    <div class="divider"></div>
+
+    <div class="frame">
+      <img src="./Car-Images/bmw-iX.jpg" alt="Description of image">
+    </div>
+
+    <p class="caption">
+      The BMW iX is a flagship all-electric midsize SUV defined by its computational power and artificial intelligence capabilities. It relies on a high-speed 5G architecture with 20 times the computing power of previous models, seamlessly driving its Level 2+ semi-autonomous systems, intelligent cabin routines, and voice-activated assistants.
+    </p>
+  </div>
+
+</body>
+</html>
