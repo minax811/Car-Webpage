@@ -1,2 +1,52 @@
-This is a website that contains information regarding all the bmws currently inproduction.
-Cars are arranged according to catagories and even have a corresponding image with them
+# BMW Vehicle Information Website
+
+## Overview
+
+This project is a simple multi-page website developed using HTML and CSS that showcases BMW vehicles. The website allows users to browse different categories of BMW cars and navigate to individual model pages containing images and basic information.
+
+## Features
+
+* Multi-page website with easy navigation.
+* Home page with BMW branding and logo.
+* Categorized vehicle listings.
+* Individual pages for BMW models.
+* Responsive layout using CSS.
+* Simple and clean user interface.
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* Visual Studio Code
+
+## Project Structure
+
+```
+Project/
+│── index.html
+│── Image/
+│     └── homepage.png
+│── Categories/
+│     ├── Sedans.html
+│     ├── SUVs.html
+│     ├── Logo.png
+│     ├── Coupes.html
+│     └── Cars/
+│          ├── BMW-1-series.html
+│          ├── BMW-3-series.html
+           └──Car-Images/
+              ├── bmw-1-series.jpg
+
+
+## Future Improvements
+
+* Add JavaScript for interactive features.
+* Include detailed specifications for every BMW model.
+* Add animations and hover effects.
+* Improve mobile responsiveness.
+* Add search and filtering functionality.
+
+## Author
+minax811
+
+Developed as a web development project to demonstrate the use of HTML and CSS in creating a simple multi-page website.
