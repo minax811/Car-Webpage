@@ -1,0 +1,140 @@
+# 🚗 BMW Car Webpage
+
+## **📖 Description**
+
+**BMW Car Webpage** is a multi-page website developed using **HTML5** and **CSS3** that showcases the current BMW vehicle lineup. The website allows users to browse different BMW models through a clean navigation system and view dedicated pages containing information and images for each vehicle.
+
+The project was created to improve front-end web development skills by building a large, structured website consisting of multiple interconnected webpages.
+
+---
+
+# **✨ Features**
+
+* ✅ Homepage with navigation
+* ✅ Multiple BMW vehicle categories
+* ✅ Dedicated webpage for each BMW model
+* ✅ Vehicle images
+* ✅ Consistent page layout and styling
+* ✅ Internal navigation between pages
+* ✅ Organised folder structure
+
+---
+
+# **🛠 Technologies Used**
+
+* **HTML5**
+* **CSS3**
+* **Visual Studio Code**
+* **Git**
+* **GitHub**
+
+---
+
+# **📁 Project Structure**
+
+```text
+Car-Webpage/
+│
+├── index.html
+├── style.css
+├── Image/
+├── Catagories/
+│   ├── Cars/
+│   │   ├── BMW-1-series.html
+│   │   ├── BMW-3-series.html
+│   │   ├── BMW-X5.html
+│   │   ├── BMW-M3.html
+│   │   ├── ...
+│   │
+│   └── Car-Images/
+│
+└── README.md
+```
+
+---
+
+# **🚀 How to Run the Project**
+
+## **Method 1 – Open Locally**
+
+1. Download or clone this repository.
+
+```bash
+git clone https://github.com/minax811/Car-Webpage.git
+```
+
+2. Open the project folder.
+
+3. Open **index.html** using any modern web browser.
+
+Supported browsers include:
+
+* Google Chrome
+* Microsoft Edge
+* Mozilla Firefox
+
+No additional software or installation is required.
+
+---
+
+## **Method 2 – Using Visual Studio Code**
+
+1. Open the project folder in **Visual Studio Code**.
+2. Install the **Live Server** extension (optional).
+3. Right-click **index.html**.
+4. Select **Open with Live Server**.
+
+The website will automatically launch in your browser and refresh whenever changes are saved.
+
+---
+
+# **📚 How to Use**
+
+1. Open **index.html**.
+2. Browse the homepage.
+3. Select a BMW category or model.
+4. Click on a vehicle to open its dedicated webpage.
+5. Read the vehicle information and view the accompanying images.
+6. Continue navigating between models using the website links.
+
+---
+
+# **🎯 Project Objectives**
+
+The purpose of this project was to practise:
+
+* HTML webpage structure
+* CSS styling
+* Multi-page website development
+* Navigation using hyperlinks
+* Organising large web projects
+* Managing images and assets
+* Version control using Git and GitHub
+
+---
+
+# **🔮 Future Improvements**
+
+Possible future updates include:
+
+* Add JavaScript for interactive features.
+* Implement a search bar.
+* Add filtering by body style or price.
+* Improve responsiveness for mobile devices.
+* Include comparison tools between BMW models.
+* Add animations and smoother page transitions.
+* Expand the website to include additional automotive brands.
+
+---
+
+# **👨‍💻 Author**
+
+**Minaam Zafar**
+
+GitHub: **https://github.com/minax811**
+
+---
+
+# **📄 License**
+
+This project was created for **educational purposes** to practise HTML, CSS, and website development.
