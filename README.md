@@ -138,3 +138,6 @@ GitHub: **https://github.com/minax811**
 # **📄 License**
 
 This project was created for **educational purposes** to practise HTML, CSS, and website development.
+
+# Ai usage
+Ai was used to make this readme
