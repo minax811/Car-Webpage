@@ -1,36 +1,56 @@
-# 🚗 BMW Car Webpage
+# BMW Car Informatics
 
-## **📖 Description**
+## **What It is**
 
-**BMW Car Webpage** is a multi-page website developed using **HTML5** and **CSS3** that showcases the current BMW vehicle lineup. The website allows users to browse different BMW models through a clean navigation system and view dedicated pages containing information and images for each vehicle.
+**BMW Car Webpage** is a multi-page website developed using **HTML5** and **CSS3** that showcases the current BMW vehicle lineup. The website allows users to browse different BMW models through a navigation system and view dedicated pages containing information and images for each vehicle. **Fun Fact**: It has **42** webpages
 
 The project was created to improve front-end web development skills by building a large, structured website consisting of multiple interconnected webpages.
 
 ---
 
-# **✨ Features**
+# **Features**
 
-* ✅ Homepage with navigation
-* ✅ Multiple BMW vehicle categories
-* ✅ Dedicated webpage for each BMW model
-* ✅ Vehicle images
-* ✅ Consistent page layout and styling
-* ✅ Internal navigation between pages
-* ✅ Organised folder structure
-
----
-
-# **🛠 Technologies Used**
-
-* **HTML5**
-* **CSS3**
-* **Visual Studio Code**
-* **Git**
-* **GitHub**
+*  Homepage with navigation
+*  Multiple BMW vehicle categories
+*  Dedicated webpage for each BMW model
+*  Vehicle images
+*  Consistent page layout and styling
+*  Internal navigation between pages
+*  Organised folder structure
 
 ---
 
-# **📁 Project Structure**
+# **Technologies Used**
+
+* HTML5 as the language
+* CSS3 for designing
+* Visual Studio Code for coding
+* GitHub for hosting
+
+---
+
+# How to Modify website
+1. Download the file and open the folder
+2. To modify the homescreen edit index.html
+3. To modify the the subcatagories page open the catagories folder and edit e.g (hatchbacks.html)
+4. To modify the information page open the Cars folder located inside the Catagories folder
+5. To change images you just go to Carwebpage > Catagories > Cars > Car-Images
+6. To change home screen image go to Carwebpage > Image
+
+NO additional software is required to run this
+---
+
+
+# **IMPORTANT NOTE**
+
+* If you want to edit this project make sure to not replace the spot for any file
+  the position of each webpage & image is important and replacing them will mean that
+  the website will not be able to access them 
+
+
+---
+
+# ** Project Structure**
 
 ```text
 Car-Webpage/
@@ -53,44 +73,20 @@ Car-Webpage/
 
 ---
 
-# **🚀 How to Run the Project**
-
-## **Method 1 – Open Locally**
-
-1. Download or clone this repository.
-
-```bash
-git clone https://github.com/minax811/Car-Webpage.git
-```
-
-2. Open the project folder.
-
-3. Open **index.html** using any modern web browser.
-
-Supported browsers include:
-
-* Google Chrome
-* Microsoft Edge
-* Mozilla Firefox
-
-No additional software or installation is required.
-
----
-
 ## **Method 2 – Using Visual Studio Code**
 
-1. Open the project folder in **Visual Studio Code**.
-2. Install the **Live Server** extension (optional).
-3. Right-click **index.html**.
-4. Select **Open with Live Server**.
+1. Open the project folder in Visual Studio Code.
+2. Install the Live Server extension (optional).
+3. Right-click index.html.
+4. Select Open with Live Server
 
 The website will automatically launch in your browser and refresh whenever changes are saved.
 
 ---
 
-# **📚 How to Use**
+# **How to Use**
 
-1. Open **index.html**.
+1. Click the link given for Demo
 2. Browse the homepage.
 3. Select a BMW category or model.
 4. Click on a vehicle to open its dedicated webpage.
@@ -99,23 +95,23 @@ The website will automatically launch in your browser and refresh whenever chang
 
 ---
 
-# **🎯 Project Objectives**
+# **Purpose of this project**
 
 The purpose of this project was to practise:
 
 * HTML webpage structure
+* Make a cool ass site
 * CSS styling
 * Multi-page website development
 * Navigation using hyperlinks
 * Organising large web projects
 * Managing images and assets
-* Version control using Git and GitHub
 
 ---
 
-# **🔮 Future Improvements**
+# **Future Improvements**
 
-Possible future updates include:
+Somethings I might add:
 
 * Add JavaScript for interactive features.
 * Implement a search bar.
@@ -123,21 +119,6 @@ Possible future updates include:
 * Improve responsiveness for mobile devices.
 * Include comparison tools between BMW models.
 * Add animations and smoother page transitions.
-* Expand the website to include additional automotive brands.
 
 ---
 
-# **👨‍💻 Author**
-
-**Minaam Zafar**
-
-GitHub: **https://github.com/minax811**
-
----
-
-# **📄 License**
-
-This project was created for **educational purposes** to practise HTML, CSS, and website development.
-
-# Ai usage
-Ai was used to make this readme
