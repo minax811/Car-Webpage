@@ -20,7 +20,7 @@ The project was created to improve front-end web development skills by building 
 
 ---
 
-# **Technologies Used**
+# **Software & Languages used**
 
 * HTML5 as the language
 * CSS3 for designing
